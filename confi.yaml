@@ -1,0 +1,5 @@
+db_config:
+  db: sample
+  host: localhost
+  passwd: user
+  user: user
