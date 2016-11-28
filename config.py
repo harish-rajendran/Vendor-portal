@@ -1,6 +1,3 @@
-import MySQLdb
-import mysql.connector
-import MySQLdb.cursors
 import os
 import yaml
 
